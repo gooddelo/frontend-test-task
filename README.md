@@ -7,7 +7,7 @@
 У Душнилы можно спрашивать текущие значения через API по адресу http://dushnila.gooddelo.com/data
 
 Ваши задачи:
-- Сверстать сайт по [**макету из Figma**](http://https://www.figma.com/file/2ZN3BIJGaLjKomcIRIlIy0/Dushnila?type=design&node-id=0%3A1&mode=design&t=Vfeu9ZcWw2n1bnb1-1 "макету из Figma") на **React по модулям**
+- Сверстать сайт по [**макету из Figma**](http://https://www.figma.com/file/2ZN3BIJGaLjKomcIRIlIy0/Dushnila?type=design&node-id=0%3A1&mode=design&t=Vfeu9ZcWw2n1bnb1-1 "макету из Figma") на **React по компонентам**
 - Получать и выводить значения Душнилы **каждую минуту**
 - Если **CO2 больше 800** или **температура больше 27** изменять **статус в Redux** с нормального на превышение, от статуса зависит цвет заднего фона и текст как на макете.
 
