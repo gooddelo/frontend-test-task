@@ -5,6 +5,7 @@
 У нас есть устройство, которое замеряет значения CO2 и температуры в офисе, мы ласково зовём его Душнила.
 
 У Душнилы можно спрашивать текущие значения через API по адресу http://dushnila.gooddelo.com/data
+> Если вы хотите захостить сайта на Github Pages нужно проксировать адрес: https://api.allorigins.win/get?url=http://dushnila.gooddelo.com/data
 
 Ваши задачи:
 - Сверстать сайт по [**макету из Figma**](https://www.figma.com/file/2ZN3BIJGaLjKomcIRIlIy0/Dushnila?type=design&node-id=0%3A1&mode=design&t=Vfeu9ZcWw2n1bnb1-1 "макету из Figma") на **React по компонентам**
