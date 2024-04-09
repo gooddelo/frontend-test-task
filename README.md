@@ -5,7 +5,7 @@
 У нас есть устройство, которое замеряет значения CO2 и температуры в офисе, мы ласково зовём его Душнила.
 
 У Душнилы можно спрашивать текущие значения через API по адресу http://dushnila.gooddelo.com/data
-> Если вы хотите захостить сайт на Github Pages нужно проксировать запросы через HTTPS
+> Если вы хотите захостить сайт на Github Pages нужно проксировать запросы через HTTPS `https://cors557.deno.dev/ip/http://dushnila.gooddelo.com/data`
 
 Ваши задачи:
 - Сверстать сайт по [**макету из Figma**](https://www.figma.com/file/2ZN3BIJGaLjKomcIRIlIy0/Dushnila?type=design&node-id=0%3A1&mode=design&t=Vfeu9ZcWw2n1bnb1-1 "макету из Figma") на **React/Vue/Svelte по компонентам** с адаптивом под 4k и под телефоны
